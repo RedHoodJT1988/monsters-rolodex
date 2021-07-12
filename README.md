@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Monsters Rolodex
+
+This project was built as an introduction to React. This project showcases how easy it can be to fetch an api list of users, in this case monsters, and map
+through that list to render them programmatically on the page. We also set up a search option so you can see how to implement a basic user search
+in your application. The users/monsters are displayed with a Card view which is a typical design choice for rendering out lists of users or even
+items on an e-commerce store. This project is a great starting point for figuring out how to manipulate data to render to the screen in a fun
+and intersting way.
+
+Below are the ways to run the application once you have it downloaded:
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,11 +23,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
 
